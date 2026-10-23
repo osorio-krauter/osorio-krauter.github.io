@@ -1,31 +1,56 @@
-# Personal academic website (Quarto)
+# My website
 
-A minimal research site: top navbar, author card on the left, text on the right.
+Live at <https://osorio-krauter.github.io>. Built with [Quarto](https://quarto.org).
 
-## Where to edit
+## Which file changes what
 
-| What | File |
+| What you want to change | File |
 |---|---|
-| Name, menu items, footer | `_quarto.yml` |
-| Photo, title, location, social links | `_author.html` (put your photo in `images/` and update the `src`) |
-| Home page text | `index.qmd` |
-| Research, Teaching, Data, CV pages | `research.qmd`, `teaching.qmd`, `data.qmd`, `cv.qmd` |
-| PDFs (CV, papers, syllabi) | `files/` |
+| Name, title, location, photo, links on the left | `_profile.yml` |
+| Home page (About text) | `index.qmd` |
+| Research, Teaching, Data and CV pages | `research.qmd`, `teaching.qmd`, `data.qmd`, `cv.qmd` |
+| Name in the top bar, menu items, footer | `_quarto.yml` |
+| Photo and other pictures | the `images` folder |
+| PDFs (CV, papers, syllabi) | the `files` folder, then link them, e.g. `[CV](files/cv.pdf)` |
 | Colours, fonts, spacing | `styles.scss` |
 
-Icons in `_author.html` come from Bootstrap Icons (https://icons.getbootstrap.com), for example `bi-linkedin` or `bi-twitter-x`.
+The `.qmd` pages are plain text with Markdown: `**bold**`, `*italic*`,
+`[link text](https://...)`, `## Heading`, `- list item`.
 
-## Preview while editing
+## Editing in RStudio
 
-```bash
-quarto preview
-```
+1. Double-click `website.Rproj` to open the website in RStudio.
+2. Open a file from the **Files** pane (bottom right), change it, and save.
+3. To see your changes, open the **Terminal** tab (bottom left) and run:
 
-## Publish to GitHub Pages
+   ```bash
+   quarto preview
+   ```
 
-1. Create a GitHub repository named `osorio-krauter.github.io` and push this folder to it.
-2. Run:
+   A preview opens in your browser and refreshes every time you save. Press
+   `Ctrl+C` in the Terminal to stop it.
+
+## Putting your changes online
+
+In RStudio's **Terminal**, run:
 
 ```bash
 quarto publish gh-pages
+```
+
+Answer `Y` if it asks. After a minute or two the live site updates; refresh
+your browser if you still see the old version.
+
+## Backing up your files on GitHub
+
+Publishing only uploads the finished website. To also save your source files
+on GitHub, use the **Git** tab (top right in RStudio): tick the changed files,
+click **Commit**, write a short note, click **Commit**, then click **Push**.
+
+Or in the Terminal:
+
+```bash
+git add -A
+git commit -m "Update my details"
+git push
 ```

@@ -28,6 +28,8 @@ format:
     theme: [cosmo, styles.scss]
     toc: false
     page-layout: custom
-    # Adds the author card from _author.html to the left of every page
+    # Adds the author card (details in _profile.yml) to the left of every page
+    metadata-files:
+      - _profile.yml
     filters:
       - author-card.lua

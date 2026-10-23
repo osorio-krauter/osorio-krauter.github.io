@@ -1,0 +1,26 @@
+# ------------------------------------------------------------
+# Your details for the card on the left of every page.
+# Change the text between the quotes, save, and the site updates.
+# ------------------------------------------------------------
+
+profile:
+  name: "Your Name"
+  title: "Assistant Professor in Political Science, University"
+  location: "City, Country"
+  photo: "images/profile.svg"   # put your photo in the images folder, e.g. images/me.jpg
+
+  # One entry per link. Delete the ones you don't need, or copy one to add more.
+  # Icon names come from https://icons.getbootstrap.com (e.g. linkedin, twitter-x, globe).
+  links:
+    - text: "Email"
+      icon: "envelope-fill"
+      url: "mailto:you@university.edu"
+    - text: "Bluesky"
+      icon: "chat-dots"
+      url: "https://bsky.app/profile/yourhandle"
+    - text: "Google Scholar"
+      icon: "mortarboard-fill"
+      url: "https://scholar.google.com/"
+    - text: "GitHub"
+      icon: "github"
+      url: "https://github.com/osorio-krauter"
