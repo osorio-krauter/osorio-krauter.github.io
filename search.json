@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "data.html#datasets",
+    "href": "data.html#datasets",
+    "title": "Data",
+    "section": "Datasets",
+    "text": "Datasets\nName of the Dataset (with Coauthor, A.)\nA short description of what the dataset covers, its time span and its unit of observation. Download · Codebook\nName of Another Dataset\nA short description. GitHub repository"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Your Name",
+    "section": "About",
+    "text": "About\nWelcome! I am an Assistant Professor in Political Science at University. Before that, I was a Postdoctoral Fellow at Institute, and I received my PhD in political science from University.\nI study your field, focusing on your topic. My research asks two questions: 1. First research question? and 2. Second research question? I answer them with your methods, such as survey experiments, text analysis and interviews. My work has been published in Journal One and Journal Two, among other journals.\nOn this website, you can find more about my research, my teaching, the datasets I have collected, and my CV.\nIf you’d like to talk about any of these projects, contact me at you@university.edu."
+  },
+  {
+    "objectID": "teaching.html#instructor",
+    "href": "teaching.html#instructor",
+    "title": "Teaching",
+    "section": "Instructor",
+    "text": "Instructor\nCourse Title (MSc), University, Autumn 2026. Syllabus\nCourse Title (BA), University, Spring 2026."
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant",
+    "href": "teaching.html#teaching-assistant",
+    "title": "Teaching",
+    "section": "Teaching assistant",
+    "text": "Teaching assistant\nCourse Title, University, 2023–2025. Taught by Professor Name."
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\nAuthor, A., and Your Name. 2026. “Title of the First Article.” Journal Name 12(3): 45–67. Paper · Replication files\nYour Name. 2025. “Title of the Second Article.” Journal Name 8(1): 1–20. Paper"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working papers",
+    "text": "Working papers\nYour Name. “Title of a Working Paper.” Draft\n\nOne or two sentences that summarise the paper’s argument and findings.\n\nYour Name and Coauthor, B. “Title of Another Working Paper.”"
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "Work in progress",
+    "text": "Work in progress\n\n“Project title” (with Coauthor, C.)\n“Project title”"
+  },
+  {
+    "objectID": "cv.html#cv",
+    "href": "cv.html#cv",
+    "title": "CV",
+    "section": "CV",
+    "text": "CV\nDownload my CV (PDF)\n\nEmployment\n\nAssistant Professor, University, 2026–present\nPostdoctoral Fellow, Institute, 2024–2026\n\n\n\nEducation\n\nPhD in Political Science, University, 2024\nMSc in Subject, University, 2019\nBA in Subject, University, 2017"
+  }
+]
