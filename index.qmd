@@ -5,10 +5,12 @@ pagetitle: "Your Name"
 
 ## About
 
-Welcome! I am an Assistant Professor in Political Science at [University](https://example.edu). Before that, I was a Postdoctoral Fellow at [Institute](https://example.edu), and I received my PhD in political science from [University](https://example.edu).
+Welcome! I am a sociology PhD Student at the [European University Institute](https://example.edu). 
 
-I study *your field*, focusing on *your topic*. My research asks two questions: 1. *First research question?* and 2. *Second research question?* I answer them with *your methods, such as survey experiments, text analysis and interviews*. My work has been published in *Journal One* and *Journal Two*, among other journals.
+I study *the formation and effects of normative attitudes, norms and perception*, focusing on *fairness attitudes towards economic inequality*. 
 
-On this website, you can find more about my [research](research.qmd), my [teaching](teaching.qmd), the [datasets](data.qmd) I have collected, and my [CV](cv.qmd).
+In my PHD thesis I’m interested in understanding how bottom-up processes, such as attitudes, interactions, and practices by ordinary people in everyday life, lead to today’s economic inequalities. For this I mainly use *quantitative methods*, such as survey experiments and observational data analysis.
 
-If you'd like to talk about any of these projects, contact me at [you@university.edu](mailto:you@university.edu).
+On this website, you can find more about my [research](research.qmd) and ongoing projects, as well as my [CV](cv.qmd).
+
+I'm happy to chat about research, common interests, so please feel free to reach out to me at [you@university.edu](mailto:you@university.edu).
