@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Your Name"
+  site-url: "https://osorio-krauter.github.io"
+  page-navigation: false
+
+  navbar:
+    background: "#ffffff"
+    foreground: "#494e52"
+    left:
+      - text: "Research"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Data"
+        href: data.qmd
+      - text: "CV"
+        href: cv.qmd
+
+  page-footer:
+    left: "© 2026 Your Name. Built with [Quarto](https://quarto.org)."
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: false
+    page-layout: custom
+    # Adds the author card from _author.html to the left of every page
+    filters:
+      - author-card.lua

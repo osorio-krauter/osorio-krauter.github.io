@@ -1,0 +1,22 @@
+---
+title: "Research"
+---
+
+## Publications
+
+**Author, A., and Your Name.** 2026. "Title of the First Article." *Journal Name* 12(3): 45–67. [Paper](https://doi.org/) · [Replication files](https://dataverse.harvard.edu/)
+
+**Your Name.** 2025. "Title of the Second Article." *Journal Name* 8(1): 1–20. [Paper](https://doi.org/)
+
+## Working papers
+
+**Your Name.** "Title of a Working Paper." [Draft](files/working-paper.pdf)
+
+> One or two sentences that summarise the paper's argument and findings.
+
+**Your Name and Coauthor, B.** "Title of Another Working Paper."
+
+## Work in progress
+
+- "Project title" (with Coauthor, C.)
+- "Project title"

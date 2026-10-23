@@ -1,0 +1,18 @@
+---
+title: "CV"
+---
+
+## CV
+
+[Download my CV (PDF)](files/cv.pdf)
+
+### Employment
+
+- **Assistant Professor**, University, 2026–present
+- **Postdoctoral Fellow**, Institute, 2024–2026
+
+### Education
+
+- **PhD in Political Science**, University, 2024
+- **MSc in Subject**, University, 2019
+- **BA in Subject**, University, 2017

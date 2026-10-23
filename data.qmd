@@ -1,0 +1,13 @@
+---
+title: "Data"
+---
+
+## Datasets
+
+**Name of the Dataset** (with Coauthor, A.)
+
+A short description of what the dataset covers, its time span and its unit of observation. [Download](https://dataverse.harvard.edu/) · [Codebook](files/codebook.pdf)
+
+**Name of Another Dataset**
+
+A short description. [GitHub repository](https://github.com/yourusername)
